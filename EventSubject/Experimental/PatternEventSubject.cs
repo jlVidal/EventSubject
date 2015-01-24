@@ -102,9 +102,6 @@ namespace Vidal.Event.Experimental
 
         private void AddDisposeAction(Action value)
         {
-            if (_isDisposed)
-                return;
-
             var baseVal = _disposeAction;
             while (true)
             {

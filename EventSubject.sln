@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSubject", "EventSubject.csproj", "{178026CB-4125-4797-9082-D2156EBBF70B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSubject", "EventSubject\EventSubject.csproj", "{178026CB-4125-4797-9082-D2156EBBF70B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateEventSubject", "..\ValidateEventSubject\ValidateEventSubject.csproj", "{41537D01-6EF1-4EF5-B512-2386950F1CCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateEventSubject", "ValidateEventSubject\ValidateEventSubject.csproj", "{41537D01-6EF1-4EF5-B512-2386950F1CCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
